@@ -14,7 +14,7 @@ What to do when a new project starts, when joining one that already exists, how 
 
 ## Use your own
 
-Fork this repository, change what's yours — brand colours, typefaces, tone, templates, the way your team works — and set **Settings → Agent → Guides** to your fork. Vivianne will follow it instead.
+Fork this repository, change what's yours — brand colours, typefaces, tone, templates, the way your team works — and set **Settings → Mods → Guides** to your fork. Vivianne will follow it instead.
 
 ## License
 
